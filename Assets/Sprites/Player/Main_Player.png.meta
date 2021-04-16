@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 8bfba1ab37a69764e93c2b26b1c7c0e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4361677606208402474
+    second: PC Computer - MapleStory - Green Cornian Morph_0
+  - first:
+      213: -7949937004288429376
+    second: PC Computer - MapleStory - Green Cornian Morph_1
+  - first:
+      213: -8797866971231069653
+    second: PC Computer - MapleStory - Green Cornian Morph_2
+  - first:
+      213: -6542479533783100107
+    second: PC Computer - MapleStory - Green Cornian Morph_3
+  - first:
+      213: 6616115586576425673
+    second: PC Computer - MapleStory - Green Cornian Morph_4
+  - first:
+      213: -5822545539126984219
+    second: Main_player_walk_to_stab
+  - first:
+      213: 2478109523057584702
+    second: PC Computer - MapleStory - Green Cornian Morph_6
+  - first:
+      213: -1194795605825053368
+    second: PC Computer - MapleStory - Green Cornian Morph_7
+  - first:
+      213: -6047821615980049336
+    second: PC Computer - MapleStory - Green Cornian Morph_8
+  - first:
+      213: -4874682287679425397
+    second: PC Computer - MapleStory - Green Cornian Morph_9
+  - first:
+      213: -3619514309646805303
+    second: PC Computer - MapleStory - Green Cornian Morph_10
+  - first:
+      213: 6619422449149541037
+    second: PC Computer - MapleStory - Green Cornian Morph_11
+  - first:
+      213: 6151103736652446767
+    second: PC Computer - MapleStory - Green Cornian Morph_12
+  - first:
+      213: 1824096760636081803
+    second: PC Computer - MapleStory - Green Cornian Morph_13
+  - first:
+      213: -6632478088957829103
+    second: PC Computer - MapleStory - Green Cornian Morph_14
+  - first:
+      213: 5266292063886976123
+    second: PC Computer - MapleStory - Green Cornian Morph_15
+  - first:
+      213: 478272438292006228
+    second: PC Computer - MapleStory - Green Cornian Morph_16
+  - first:
+      213: 9076122273247671587
+    second: PC Computer - MapleStory - Green Cornian Morph_17
+  - first:
+      213: -6286717442052964284
+    second: PC Computer - MapleStory - Green Cornian Morph_18
+  - first:
+      213: 896142837625574167
+    second: PC Computer - MapleStory - Green Cornian Morph_19
+  - first:
+      213: 5960868578240503977
+    second: PC Computer - MapleStory - Green Cornian Morph_20
+  - first:
+      213: 3835463044973852624
+    second: PC Computer - MapleStory - Green Cornian Morph_21
+  - first:
+      213: -5605948250613302820
+    second: PC Computer - MapleStory - Green Cornian Morph_22
+  - first:
+      213: 7712559255563811318
+    second: PC Computer - MapleStory - Green Cornian Morph_23
+  - first:
+      213: -7621891022168398578
+    second: PC Computer - MapleStory - Green Cornian Morph_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 479
+        width: 156
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db0c2983553873c0800000000000000
+      internalID: -4361677606208402474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 479
+        width: 153
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2b7a84a662ca190800000000000000
+      internalID: -7949937004288429376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 479
+        width: 156
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a51ae4a92b7e580800000000000000
+      internalID: -8797866971231069653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 479
+        width: 153
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535589e07817435a0800000000000000
+      internalID: -6542479533783100107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 310
+        width: 156
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c220d2821a21db50800000000000000
+      internalID: 6616115586576425673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_player_walk_to_stab
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 310
+        width: 147
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e10dcb6ea9223fa0800000000000000
+      internalID: -5822545539126984219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 310
+        width: 146
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a2c5c4b73046220800000000000000
+      internalID: 2478109523057584702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_7
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 310
+        width: 150
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d999f0abb3b6fe0800000000000000
+      internalID: -1194795605825053368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_8
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 310
+        width: 156
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c84927842d11ca0800000000000000
+      internalID: -6047821615980049336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_9
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 310
+        width: 156
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84baf95946a95cb0800000000000000
+      internalID: -4874682287679425397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 163
+        width: 192
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c61f0299e6e4cdc0800000000000000
+      internalID: -3619514309646805303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 150
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daafdc375a9ecdb50800000000000000
+      internalID: 6619422449149541037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 150
+        width: 28
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c3fbf224c1d5550800000000000000
+      internalID: 6151103736652446767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_13
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 153
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8687add65e705910800000000000000
+      internalID: 1824096760636081803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 153
+        width: 33
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1106b178154b4f3a0800000000000000
+      internalID: -6632478088957829103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 141
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b742177eab0a51940800000000000000
+      internalID: 5266292063886976123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 150
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4554146af3a23a600800000000000000
+      internalID: 478272438292006228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 153
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32530f2ce1dd4fd70800000000000000
+      internalID: 9076122273247671587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 134
+        width: 33
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4404e2f7bc711c8a0800000000000000
+      internalID: -6286717442052964284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_19
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 134
+        width: 47
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713dea0b92dbf6c00800000000000000
+      internalID: 896142837625574167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 134
+        width: 4
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a020dec36249b250800000000000000
+      internalID: 5960868578240503977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_21
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 134
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7fdc8715d4a3530800000000000000
+      internalID: 3835463044973852624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 134
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9b8f484cba332b0800000000000000
+      internalID: -5605948250613302820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_23
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 134
+        width: 28
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f93801b7c3880b60800000000000000
+      internalID: 7712559255563811318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Green Cornian Morph_24
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 113
+        width: 38
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05e9e27f7a993690800000000000000
+      internalID: -7621891022168398578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
