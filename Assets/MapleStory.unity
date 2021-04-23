@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 27290454}
   - component: {fileID: 27290455}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -215,7 +215,7 @@ GameObject:
   m_Component:
   - component: {fileID: 35879573}
   - component: {fileID: 35879574}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -297,7 +297,7 @@ GameObject:
   m_Component:
   - component: {fileID: 39177372}
   - component: {fileID: 39177373}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_55 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -379,7 +379,7 @@ GameObject:
   m_Component:
   - component: {fileID: 46378806}
   - component: {fileID: 46378807}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -461,7 +461,7 @@ GameObject:
   m_Component:
   - component: {fileID: 60205927}
   - component: {fileID: 60205928}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_4 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -543,7 +543,7 @@ GameObject:
   m_Component:
   - component: {fileID: 67011653}
   - component: {fileID: 67011654}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -625,7 +625,7 @@ GameObject:
   m_Component:
   - component: {fileID: 91237559}
   - component: {fileID: 91237560}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -707,7 +707,7 @@ GameObject:
   m_Component:
   - component: {fileID: 97326719}
   - component: {fileID: 97326720}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -871,7 +871,7 @@ GameObject:
   m_Component:
   - component: {fileID: 138508279}
   - component: {fileID: 138508280}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_18 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -952,7 +952,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 157755410}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Green Colliders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -966,9 +966,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 157755409}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 8.17, y: 4.44, z: 4.8581038}
+  m_LocalScale: {x: 1.1940298, y: 1.1267605, z: 1}
   m_Children:
   - {fileID: 677004153}
   - {fileID: 1886481558}
@@ -981,8 +981,8 @@ Transform:
   - {fileID: 818675610}
   - {fileID: 260234950}
   - {fileID: 1892505756}
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_Father: {fileID: 404843109}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &163387313
 GameObject:
@@ -994,7 +994,7 @@ GameObject:
   m_Component:
   - component: {fileID: 163387314}
   - component: {fileID: 163387315}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_4 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1076,7 +1076,7 @@ GameObject:
   m_Component:
   - component: {fileID: 169851138}
   - component: {fileID: 169851139}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1158,7 +1158,7 @@ GameObject:
   m_Component:
   - component: {fileID: 170226268}
   - component: {fileID: 170226269}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1214,7 +1214,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 176220024}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Block_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1228,9 +1228,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 176220023}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.76, y: 0.59, z: -9.399545}
-  m_LocalScale: {x: 0.975, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 17.468657, y: 5.1380277, z: -4.541441}
+  m_LocalScale: {x: 1.1641791, y: 1.1267605, z: 1}
   m_Children:
   - {fileID: 495678455}
   - {fileID: 254211073}
@@ -1276,8 +1276,8 @@ Transform:
   - {fileID: 1821076172}
   - {fileID: 1796628190}
   - {fileID: 91237559}
-  m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_Father: {fileID: 404843109}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &176948299
 GameObject:
@@ -1289,7 +1289,7 @@ GameObject:
   m_Component:
   - component: {fileID: 176948300}
   - component: {fileID: 176948301}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1371,7 +1371,7 @@ GameObject:
   m_Component:
   - component: {fileID: 184465176}
   - component: {fileID: 184465177}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1453,7 +1453,7 @@ GameObject:
   m_Component:
   - component: {fileID: 202003315}
   - component: {fileID: 202003316}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_17 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1535,7 +1535,7 @@ GameObject:
   m_Component:
   - component: {fileID: 230461755}
   - component: {fileID: 230461756}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_11 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1617,7 +1617,7 @@ GameObject:
   m_Component:
   - component: {fileID: 230469869}
   - component: {fileID: 230469870}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_8 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1699,7 +1699,7 @@ GameObject:
   m_Component:
   - component: {fileID: 254211073}
   - component: {fileID: 254211074}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_57
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1781,7 +1781,7 @@ GameObject:
   m_Component:
   - component: {fileID: 260234950}
   - component: {fileID: 260234951}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ground (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1838,7 +1838,7 @@ GameObject:
   m_Component:
   - component: {fileID: 278304774}
   - component: {fileID: 278304775}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1920,7 +1920,7 @@ GameObject:
   m_Component:
   - component: {fileID: 296257048}
   - component: {fileID: 296257049}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_10 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2002,7 +2002,7 @@ GameObject:
   m_Component:
   - component: {fileID: 300083529}
   - component: {fileID: 300083530}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2074,6 +2074,36 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &310546550
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 310546551}
+  m_Layer: 0
+  m_Name: GroundCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &310546551
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 310546550}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 471024228}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &317915778
 GameObject:
   m_ObjectHideFlags: 0
@@ -2084,7 +2114,7 @@ GameObject:
   m_Component:
   - component: {fileID: 317915779}
   - component: {fileID: 317915780}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_14 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2166,7 +2196,7 @@ GameObject:
   m_Component:
   - component: {fileID: 333936506}
   - component: {fileID: 333936507}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_9 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2248,7 +2278,7 @@ GameObject:
   m_Component:
   - component: {fileID: 370228594}
   - component: {fileID: 370228595}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2267,7 +2297,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 404843109}
-  m_RootOrder: 8
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &370228595
 SpriteRenderer:
@@ -2330,7 +2360,7 @@ GameObject:
   m_Component:
   - component: {fileID: 401156978}
   - component: {fileID: 401156979}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2412,7 +2442,7 @@ GameObject:
   m_Component:
   - component: {fileID: 401881701}
   - component: {fileID: 401881702}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_8 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2493,7 +2523,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 404843109}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Blocks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2511,6 +2541,12 @@ Transform:
   m_LocalPosition: {x: -6.87, y: -3.97, z: -4.8581038}
   m_LocalScale: {x: 0.8375, y: 0.8875, z: 1}
   m_Children:
+  - {fileID: 1877375138}
+  - {fileID: 157755410}
+  - {fileID: 176220024}
+  - {fileID: 1580467149}
+  - {fileID: 1860188768}
+  - {fileID: 1888529799}
   - {fileID: 483270265}
   - {fileID: 757560346}
   - {fileID: 493462362}
@@ -2534,7 +2570,7 @@ GameObject:
   m_Component:
   - component: {fileID: 419126422}
   - component: {fileID: 419126423}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2616,7 +2652,7 @@ GameObject:
   m_Component:
   - component: {fileID: 436616572}
   - component: {fileID: 436616573}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_8 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2698,7 +2734,7 @@ GameObject:
   m_Component:
   - component: {fileID: 438319024}
   - component: {fileID: 438319025}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2780,8 +2816,11 @@ GameObject:
   m_Component:
   - component: {fileID: 471024228}
   - component: {fileID: 471024227}
-  - component: {fileID: 471024229}
   - component: {fileID: 471024230}
+  - component: {fileID: 471024231}
+  - component: {fileID: 471024229}
+  - component: {fileID: 471024232}
+  - component: {fileID: 471024233}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -2847,13 +2886,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 471024226}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.38, y: -1.31, z: 0}
+  m_LocalRotation: {x: -0, y: -0.9882112, z: -0, w: 0.15309674}
+  m_LocalPosition: {x: -2.71, y: -1.93, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 310546551}
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -162.387, z: 0}
 --- !u!50 &471024229
 Rigidbody2D:
   serializedVersion: 4
@@ -2873,8 +2913,8 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
+  m_CollisionDetection: 1
+  m_Constraints: 4
 --- !u!61 &471024230
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2901,6 +2941,60 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.47, y: 1.31}
   m_EdgeRadius: 0
+--- !u!114 &471024231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 471024226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb4aac6e9bdc35d42bf9e12a3bc9cbfe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
+  jumpForce: 400
+  isGrounded: 0
+  isGroundLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  groundCheck: {fileID: 310546551}
+  groundCheckRadius: 0.2
+--- !u!95 &471024232
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 471024226}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7214e9f901c65f64ea5b3d3d60bc758f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!111 &471024233
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 471024226}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 1f470e4153f3910429c4759421086de6, type: 2}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &483270264
 GameObject:
   m_ObjectHideFlags: 0
@@ -2911,7 +3005,7 @@ GameObject:
   m_Component:
   - component: {fileID: 483270265}
   - component: {fileID: 483270266}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2930,7 +3024,7 @@ Transform:
   m_LocalScale: {x: 1.0762, y: 1.1319, z: 1}
   m_Children: []
   m_Father: {fileID: 404843109}
-  m_RootOrder: 0
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &483270266
 SpriteRenderer:
@@ -2993,7 +3087,7 @@ GameObject:
   m_Component:
   - component: {fileID: 493462362}
   - component: {fileID: 493462363}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3012,7 +3106,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 404843109}
-  m_RootOrder: 2
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &493462363
 SpriteRenderer:
@@ -3075,7 +3169,7 @@ GameObject:
   m_Component:
   - component: {fileID: 495678455}
   - component: {fileID: 495678456}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3157,7 +3251,7 @@ GameObject:
   m_Component:
   - component: {fileID: 509363618}
   - component: {fileID: 509363619}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3239,7 +3333,7 @@ GameObject:
   m_Component:
   - component: {fileID: 518132407}
   - component: {fileID: 518132408}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3388,7 +3482,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 0.56, y: -0.04, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -3404,7 +3498,7 @@ GameObject:
   m_Component:
   - component: {fileID: 527746538}
   - component: {fileID: 527746539}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3486,7 +3580,7 @@ GameObject:
   m_Component:
   - component: {fileID: 540485527}
   - component: {fileID: 540485528}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_18 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3568,7 +3662,7 @@ GameObject:
   m_Component:
   - component: {fileID: 549756562}
   - component: {fileID: 549756563}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3650,7 +3744,7 @@ GameObject:
   m_Component:
   - component: {fileID: 591912671}
   - component: {fileID: 591912672}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3732,7 +3826,7 @@ GameObject:
   m_Component:
   - component: {fileID: 614242946}
   - component: {fileID: 614242947}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3814,7 +3908,7 @@ GameObject:
   m_Component:
   - component: {fileID: 616544934}
   - component: {fileID: 616544935}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3896,7 +3990,7 @@ GameObject:
   m_Component:
   - component: {fileID: 634306661}
   - component: {fileID: 634306662}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3978,7 +4072,7 @@ GameObject:
   m_Component:
   - component: {fileID: 635969549}
   - component: {fileID: 635969550}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ground (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4035,7 +4129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 667173223}
   - component: {fileID: 667173224}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_14 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4117,7 +4211,7 @@ GameObject:
   m_Component:
   - component: {fileID: 676221283}
   - component: {fileID: 676221284}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4199,7 +4293,7 @@ GameObject:
   m_Component:
   - component: {fileID: 677004153}
   - component: {fileID: 677004154}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4255,7 +4349,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 704409335}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Block_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4286,7 +4380,7 @@ GameObject:
   m_Component:
   - component: {fileID: 736384959}
   - component: {fileID: 736384960}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4305,7 +4399,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 404843109}
-  m_RootOrder: 7
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &736384960
 SpriteRenderer:
@@ -4368,7 +4462,7 @@ GameObject:
   m_Component:
   - component: {fileID: 741113777}
   - component: {fileID: 741113778}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_16 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4450,7 +4544,7 @@ GameObject:
   m_Component:
   - component: {fileID: 745402166}
   - component: {fileID: 745402167}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_18 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4532,7 +4626,7 @@ GameObject:
   m_Component:
   - component: {fileID: 754909724}
   - component: {fileID: 754909725}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_10 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4614,7 +4708,7 @@ GameObject:
   m_Component:
   - component: {fileID: 757560346}
   - component: {fileID: 757560347}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4633,7 +4727,7 @@ Transform:
   m_LocalScale: {x: 1.2371414, y: 1.1017094, z: 1}
   m_Children: []
   m_Father: {fileID: 404843109}
-  m_RootOrder: 1
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &757560347
 SpriteRenderer:
@@ -4696,7 +4790,7 @@ GameObject:
   m_Component:
   - component: {fileID: 762496841}
   - component: {fileID: 762496842}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_10 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4768,6 +4862,88 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &764713956
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 764713958}
+  - component: {fileID: 764713957}
+  m_Layer: 0
+  m_Name: Circle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &764713957
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 764713956}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -2413806693520163455, guid: ebe73ca9363db456bacf42c025bb4847, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &764713958
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 764713956}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.776464, y: -0.7327191, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &780075057
 GameObject:
   m_ObjectHideFlags: 0
@@ -4778,7 +4954,7 @@ GameObject:
   m_Component:
   - component: {fileID: 780075058}
   - component: {fileID: 780075059}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4860,7 +5036,7 @@ GameObject:
   m_Component:
   - component: {fileID: 786005979}
   - component: {fileID: 786005980}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_11 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4942,7 +5118,7 @@ GameObject:
   m_Component:
   - component: {fileID: 797078475}
   - component: {fileID: 797078476}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5024,7 +5200,7 @@ GameObject:
   m_Component:
   - component: {fileID: 813949766}
   - component: {fileID: 813949767}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5106,7 +5282,7 @@ GameObject:
   m_Component:
   - component: {fileID: 818675610}
   - component: {fileID: 818675611}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ground (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5163,7 +5339,7 @@ GameObject:
   m_Component:
   - component: {fileID: 828103358}
   - component: {fileID: 828103359}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5182,7 +5358,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 404843109}
-  m_RootOrder: 6
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &828103359
 SpriteRenderer:
@@ -5245,7 +5421,7 @@ GameObject:
   m_Component:
   - component: {fileID: 829328925}
   - component: {fileID: 829328926}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5327,7 +5503,7 @@ GameObject:
   m_Component:
   - component: {fileID: 864519420}
   - component: {fileID: 864519421}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_11 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5409,7 +5585,7 @@ GameObject:
   m_Component:
   - component: {fileID: 868504905}
   - component: {fileID: 868504906}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5491,7 +5667,7 @@ GameObject:
   m_Component:
   - component: {fileID: 886940064}
   - component: {fileID: 886940065}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_11 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5573,7 +5749,7 @@ GameObject:
   m_Component:
   - component: {fileID: 920181642}
   - component: {fileID: 920181643}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_4 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5655,7 +5831,7 @@ GameObject:
   m_Component:
   - component: {fileID: 942689437}
   - component: {fileID: 942689438}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5712,7 +5888,7 @@ GameObject:
   m_Component:
   - component: {fileID: 954799326}
   - component: {fileID: 954799327}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5794,7 +5970,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1000949817}
   - component: {fileID: 1000949818}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5876,7 +6052,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1024938062}
   - component: {fileID: 1024938063}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_11 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5958,7 +6134,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1029039561}
   - component: {fileID: 1029039562}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6040,7 +6216,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1031696352}
   - component: {fileID: 1031696353}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6122,7 +6298,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1037904233}
   - component: {fileID: 1037904234}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_19 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6204,7 +6380,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1054929837}
   - component: {fileID: 1054929838}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6286,7 +6462,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1060277813}
   - component: {fileID: 1060277814}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6368,7 +6544,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1075541251}
   - component: {fileID: 1075541252}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6450,7 +6626,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1101402510}
   - component: {fileID: 1101402511}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6532,7 +6708,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1128515350}
   - component: {fileID: 1128515351}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_11 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6614,7 +6790,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1156840118}
   - component: {fileID: 1156840119}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6633,7 +6809,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 404843109}
-  m_RootOrder: 5
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1156840119
 SpriteRenderer:
@@ -6696,7 +6872,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1166656174}
   - component: {fileID: 1166656175}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6778,7 +6954,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1193154592}
   - component: {fileID: 1193154593}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6860,7 +7036,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1199837553}
   - component: {fileID: 1199837554}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_55 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6942,7 +7118,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1220717686}
   - component: {fileID: 1220717687}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7024,7 +7200,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1293397755}
   - component: {fileID: 1293397756}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7106,7 +7282,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1299095187}
   - component: {fileID: 1299095188}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_14 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7188,7 +7364,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1305327762}
   - component: {fileID: 1305327763}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7270,7 +7446,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1330972444}
   - component: {fileID: 1330972445}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7352,7 +7528,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1337249472}
   - component: {fileID: 1337249473}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7434,7 +7610,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1342721608}
   - component: {fileID: 1342721609}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ground (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7491,7 +7667,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1392215898}
   - component: {fileID: 1392215899}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_10 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7573,7 +7749,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1447042882}
   - component: {fileID: 1447042883}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_14 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7655,7 +7831,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1457643339}
   - component: {fileID: 1457643340}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7737,7 +7913,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1494452886}
   - component: {fileID: 1494452887}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7819,7 +7995,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1495814177}
   - component: {fileID: 1495814178}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7901,7 +8077,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1513157428}
   - component: {fileID: 1513157429}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7983,7 +8159,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1522495642}
   - component: {fileID: 1522495643}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8065,7 +8241,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1533753016}
   - component: {fileID: 1533753017}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_11 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8147,7 +8323,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1538511785}
   - component: {fileID: 1538511786}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8229,7 +8405,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1563470015}
   - component: {fileID: 1563470016}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8311,7 +8487,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1570240394}
   - component: {fileID: 1570240395}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8392,7 +8568,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1580467149}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Block_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8406,9 +8582,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1580467148}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.1891769, y: -0.83334124, z: -5.767128}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 9.622897, y: 3.5342631, z: -0.90902424}
+  m_LocalScale: {x: 1.1940298, y: 1.1267605, z: 1}
   m_Children:
   - {fileID: 1687933226}
   - {fileID: 1768798894}
@@ -8424,8 +8600,8 @@ Transform:
   - {fileID: 27290454}
   - {fileID: 202003315}
   - {fileID: 1720273539}
-  m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_Father: {fileID: 404843109}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1593341022
 GameObject:
@@ -8437,7 +8613,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1593341023}
   - component: {fileID: 1593341024}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_14 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8519,7 +8695,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1600083005}
   - component: {fileID: 1600083006}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8601,7 +8777,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1610810087}
   - component: {fileID: 1610810088}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8683,7 +8859,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1676943410}
   - component: {fileID: 1676943411}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8765,7 +8941,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1685265729}
   - component: {fileID: 1685265730}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8847,7 +9023,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1687933226}
   - component: {fileID: 1687933227}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8929,7 +9105,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1693495807}
   - component: {fileID: 1693495808}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9011,7 +9187,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1707963922}
   - component: {fileID: 1707963923}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_4 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9093,7 +9269,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1720273539}
   - component: {fileID: 1720273540}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9175,7 +9351,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1722871020}
   - component: {fileID: 1722871021}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_4 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9257,7 +9433,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1738310203}
   - component: {fileID: 1738310204}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9276,7 +9452,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 404843109}
-  m_RootOrder: 9
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1738310204
 SpriteRenderer:
@@ -9339,7 +9515,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1751854966}
   - component: {fileID: 1751854967}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_54
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9421,7 +9597,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1765058453}
   - component: {fileID: 1765058454}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_4 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9503,7 +9679,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1768798894}
   - component: {fileID: 1768798895}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9585,7 +9761,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1794317442}
   - component: {fileID: 1794317443}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9642,7 +9818,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1796628190}
   - component: {fileID: 1796628191}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_15 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9724,7 +9900,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1797635957}
   - component: {fileID: 1797635958}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_11 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9806,7 +9982,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1807403682}
   - component: {fileID: 1807403683}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9888,7 +10064,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1821076172}
   - component: {fileID: 1821076173}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_8 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9970,7 +10146,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1846012458}
   - component: {fileID: 1846012459}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_55
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10051,7 +10227,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1860188768}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Block_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10065,9 +10241,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1860188767}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.468869, y: -2.029224, z: -5.1918554}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.8670216, y: 2.1867898, z: -0.33375168}
+  m_LocalScale: {x: 1.1940298, y: 1.1267605, z: 1}
   m_Children:
   - {fileID: 1751854966}
   - {fileID: 786005979}
@@ -10082,7 +10258,7 @@ Transform:
   - {fileID: 864519420}
   - {fileID: 634306661}
   - {fileID: 333936506}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 404843109}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1864489222
@@ -10095,7 +10271,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1864489223}
   - component: {fileID: 1864489224}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_11 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10177,7 +10353,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1873020591}
   - component: {fileID: 1873020592}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10259,7 +10435,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1877375138}
   - component: {fileID: 1877375137}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Block_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10292,9 +10468,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1877375136}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.468869, y: 1.67, z: -5.1918554}
-  m_LocalScale: {x: 1, y: 1.6375, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.8670216, y: 6.354929, z: -0.33375168}
+  m_LocalScale: {x: 1.1940298, y: 1.8450704, z: 1}
   m_Children:
   - {fileID: 1128515350}
   - {fileID: 591912671}
@@ -10315,8 +10491,8 @@ Transform:
   - {fileID: 614242946}
   - {fileID: 1807403682}
   - {fileID: 1457643339}
-  m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_Father: {fileID: 404843109}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1886481557
 GameObject:
@@ -10328,7 +10504,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1886481558}
   - component: {fileID: 1886481559}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10385,7 +10561,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1887739087}
   - component: {fileID: 1887739088}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ground (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10441,7 +10617,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1888529799}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Block_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10455,9 +10631,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1888529798}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.306348, y: -0.9763497, z: -7.928231}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 18.121012, y: 3.373127, z: -3.070127}
+  m_LocalScale: {x: 1.1940298, y: 1.1267605, z: 1}
   m_Children:
   - {fileID: 754909724}
   - {fileID: 138508279}
@@ -10480,8 +10656,8 @@ Transform:
   - {fileID: 1513157428}
   - {fileID: 176948300}
   - {fileID: 1101402510}
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_Father: {fileID: 404843109}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1892505755
 GameObject:
@@ -10494,7 +10670,7 @@ GameObject:
   - component: {fileID: 1892505756}
   - component: {fileID: 1892505758}
   - component: {fileID: 1892505757}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2d platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10566,7 +10742,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1903396521}
   - component: {fileID: 1903396522}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_11 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10585,7 +10761,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 404843109}
-  m_RootOrder: 4
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1903396522
 SpriteRenderer:
@@ -10648,7 +10824,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1965270236}
   - component: {fileID: 1965270237}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_57
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10730,7 +10906,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1980333893}
   - component: {fileID: 1980333894}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10812,7 +10988,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2041334929}
   - component: {fileID: 2041334930}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_3 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10894,7 +11070,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2043674180}
   - component: {fileID: 2043674181}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10976,7 +11152,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2111116095}
   - component: {fileID: 2111116096}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11058,7 +11234,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2116854794}
   - component: {fileID: 2116854795}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11140,7 +11316,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2131820202}
   - component: {fileID: 2131820203}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11159,7 +11335,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 404843109}
-  m_RootOrder: 3
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2131820203
 SpriteRenderer:
@@ -11222,7 +11398,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2142352712}
   - component: {fileID: 2142352713}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: blocks_9 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
